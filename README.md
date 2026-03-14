@@ -6,7 +6,7 @@ This project presents an interactive Power BI dashboard that analyzes India's en
 The dashboard helps visualize trends in energy imports and exports across multiple energy resources and highlights India's growing dependence on imported energy.
 
 
-    ##Dashboard Preview
+##Dashboard Preview
 ![Power BI Dashboard](BI1.png)
 
     
