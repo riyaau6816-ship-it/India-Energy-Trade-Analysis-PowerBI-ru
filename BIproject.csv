@@ -1,0 +1,127 @@
+Country,Year,Type Of Foreign Trade Product,Additional Information,"Gross Imports (UOM:t(Tonne)), Scaling Factor:1000000","Exports (UOM:t(Tonne)), Scaling Factor:1000000","Net Imports (UOM:t(Tonne)), Scaling Factor:1000000"
+India,"Financial Year (Apr - Mar), 2023",Coal,Provisional,264.53,1.55,262.99
+India,"Financial Year (Apr - Mar), 2023",Lignite,Provisional,0.05,0.0,0.05
+India,"Financial Year (Apr - Mar), 2023",Crude Oil,Provisional,234.26,0.0,234.26
+India,"Financial Year (Apr - Mar), 2023",Petroleum Products,Provisional,48.69,62.59,-13.9
+India,"Financial Year (Apr - Mar), 2023",Natural Gas (Billion Cubic Metres),Provisional,31.8,0.0,31.8
+India,"Financial Year (Apr - Mar), 2023",Electricity (Giga Watt Hour),Provisional,6648.69,11361.98,-4713.29
+India,"Financial Year (Apr - Mar), 2022",Coal,,237.67,1.17,236.5
+India,"Financial Year (Apr - Mar), 2022",Lignite,,0.02,0.33,-0.31
+India,"Financial Year (Apr - Mar), 2022",Crude Oil,,232.7,0.0,232.7
+India,"Financial Year (Apr - Mar), 2022",Petroleum Products,,44.6,61.01,-16.42
+India,"Financial Year (Apr - Mar), 2022",Natural Gas (Billion Cubic Metres),,26.3,0.0,26.3
+India,"Financial Year (Apr - Mar), 2022",Electricity (Giga Watt Hour),,7639.76,13791.92,-6152.16
+India,"Financial Year (Apr - Mar), 2021",Coal,,208.63,1.32,207.31
+India,"Financial Year (Apr - Mar), 2021",Lignite,,0.01,0.02,-0.01
+India,"Financial Year (Apr - Mar), 2021",Crude Oil,,212.38,0.0,212.38
+India,"Financial Year (Apr - Mar), 2021",Petroleum Products,,39.02,62.75,-23.74
+India,"Financial Year (Apr - Mar), 2021",Natural Gas (Billion Cubic Metres),,31.03,0.0,31.03
+India,"Financial Year (Apr - Mar), 2021",Electricity (Giga Watt Hour),,7974.01,9249.39,-1275.39
+India,"Financial Year (Apr - Mar), 2020",Coal,,215.25,2.95,212.31
+India,"Financial Year (Apr - Mar), 2020",Lignite,,0.02,0.19,-0.17
+India,"Financial Year (Apr - Mar), 2020",Crude Oil,,196.46,0.0,196.46
+India,"Financial Year (Apr - Mar), 2020",Petroleum Products,,43.25,56.77,-13.52
+India,"Financial Year (Apr - Mar), 2020",Natural Gas (Billion Cubic Metres),,33.03,0.0,33.03
+India,"Financial Year (Apr - Mar), 2020",Electricity (Giga Watt Hour),,9547.7,9573.55,-25.85
+India,"Financial Year (Apr - Mar), 2019",Coal,,248.54,1.03,247.51
+India,"Financial Year (Apr - Mar), 2019",Lignite,,0.05,0.09,-0.04
+India,"Financial Year (Apr - Mar), 2019",Crude Oil,,226.95,0.0,226.95
+India,"Financial Year (Apr - Mar), 2019",Petroleum Products,,43.79,65.69,-21.9
+India,"Financial Year (Apr - Mar), 2019",Natural Gas (Billion Cubic Metres),,33.89,0.0,33.89
+India,"Financial Year (Apr - Mar), 2019",Electricity (Giga Watt Hour),,6350.6,9490.91,-3140.31
+India,"Financial Year (Apr - Mar), 2018",Coal,,235.35,1.31,234.04
+India,"Financial Year (Apr - Mar), 2018",Lignite,,0.02,0.08,-0.06
+India,"Financial Year (Apr - Mar), 2018",Crude Oil,,226.5,0.0,226.5
+India,"Financial Year (Apr - Mar), 2018",Petroleum Products,,33.35,61.1,-27.75
+India,"Financial Year (Apr - Mar), 2018",Natural Gas (Billion Cubic Metres),,28.74,0.0,28.74
+India,"Financial Year (Apr - Mar), 2018",Electricity (Giga Watt Hour),,4395.86,8468.94,-4073.08
+India,"Financial Year (Apr - Mar), 2017",Coal,,208.25,1.5,206.75
+India,"Financial Year (Apr - Mar), 2017",Lignite,,0.01,0.0,0.01
+India,"Financial Year (Apr - Mar), 2017",Crude Oil,,220.43,0.0,220.43
+India,"Financial Year (Apr - Mar), 2017",Petroleum Products,,35.46,66.83,-31.37
+India,"Financial Year (Apr - Mar), 2017",Natural Gas (Billion Cubic Metres),,27.44,0.0,27.44
+India,"Financial Year (Apr - Mar), 2017",Electricity (Giga Watt Hour),,5072.08,7202.86,-2130.78
+India,"Financial Year (Apr - Mar), 2016",Coal,,190.95,1.77,189.18
+India,"Financial Year (Apr - Mar), 2016",Lignite,,0.02,0.01,0.01
+India,"Financial Year (Apr - Mar), 2016",Crude Oil,,213.93,0.0,213.93
+India,"Financial Year (Apr - Mar), 2016",Petroleum Products,,36.29,65.51,-29.23
+India,"Financial Year (Apr - Mar), 2016",Natural Gas (Billion Cubic Metres),,24.85,0.0,24.85
+India,"Financial Year (Apr - Mar), 2016",Electricity (Giga Watt Hour),,5617.3,6710.19,-1092.89
+India,"Financial Year (Apr - Mar), 2015",Coal,,203.95,1.58,202.37
+India,"Financial Year (Apr - Mar), 2015",Lignite,,0.0,0.0,0.0
+India,"Financial Year (Apr - Mar), 2015",Crude Oil,,202.85,0.0,202.85
+India,"Financial Year (Apr - Mar), 2015",Petroleum Products,,29.46,60.54,-31.08
+India,"Financial Year (Apr - Mar), 2015",Natural Gas (Billion Cubic Metres),,21.39,0.0,21.39
+India,"Financial Year (Apr - Mar), 2015",Electricity (Giga Watt Hour),,5244.21,5150.3,93.91
+India,"Financial Year (Apr - Mar), 2014",Coal,,217.78,1.24,216.54
+India,"Financial Year (Apr - Mar), 2014",Lignite,,0.0,0.0,0.0
+India,"Financial Year (Apr - Mar), 2014",Crude Oil,,189.43,0.0,189.43
+India,"Financial Year (Apr - Mar), 2014",Petroleum Products,,21.3,63.93,-42.63
+India,"Financial Year (Apr - Mar), 2014",Natural Gas (Billion Cubic Metres),,18.61,0.0,18.61
+India,"Financial Year (Apr - Mar), 2014",Electricity (Giga Watt Hour),,5007.74,4432.76,574.98
+India,"Financial Year (Apr - Mar), 2013",Coal,,166.86,2.19,164.67
+India,"Financial Year (Apr - Mar), 2013",Lignite,,0.0,0.0,0.0
+India,"Financial Year (Apr - Mar), 2013",Crude Oil,,189.24,0.0,189.24
+India,"Financial Year (Apr - Mar), 2013",Petroleum Products,,16.7,67.86,-51.17
+India,"Financial Year (Apr - Mar), 2013",Natural Gas (Billion Cubic Metres),,17.8,0.0,17.8
+India,"Financial Year (Apr - Mar), 2013",Electricity (Giga Watt Hour),,5597.9,1651.0,3946.9
+India,"Financial Year (Apr - Mar), 2012",Coal,,145.79,2.44,143.34
+India,"Financial Year (Apr - Mar), 2012",Lignite,,0.0,0.07,-0.07
+India,"Financial Year (Apr - Mar), 2012",Crude Oil,,184.8,0.0,184.8
+India,"Financial Year (Apr - Mar), 2012",Petroleum Products,,16.35,63.41,-47.05
+India,"Financial Year (Apr - Mar), 2012",Natural Gas (Billion Cubic Metres),,17.61,0.0,17.61
+India,"Financial Year (Apr - Mar), 2012",Electricity (Giga Watt Hour),,4794.5,153.53,4640.97
+India,"Financial Year (Apr - Mar), 2011",Coal,,102.85,2.01,100.84
+India,"Financial Year (Apr - Mar), 2011",Crude Oil,,171.73,0.0,171.73
+India,"Financial Year (Apr - Mar), 2011",Petroleum Products,,15.85,60.84,-44.99
+India,"Financial Year (Apr - Mar), 2011",Natural Gas (Billion Cubic Metres),,18.0,0.0,18.0
+India,"Financial Year (Apr - Mar), 2011",Electricity (Giga Watt Hour),,5253.0,135.0,5118.0
+India,"Financial Year (Apr - Mar), 2010",Coal,,68.92,1.88,67.04
+India,"Financial Year (Apr - Mar), 2010",Crude Oil,,163.6,0.0,163.6
+India,"Financial Year (Apr - Mar), 2010",Petroleum Products,,17.38,59.08,-41.7
+India,"Financial Year (Apr - Mar), 2010",Natural Gas (Billion Cubic Metres),,12.93,0.0,12.93
+India,"Financial Year (Apr - Mar), 2010",Electricity (Giga Watt Hour),,5611.0,128.0,5482.0
+India,"Financial Year (Apr - Mar), 2009",Coal,,73.26,2.45,70.8
+India,"Financial Year (Apr - Mar), 2009",Crude Oil,,159.26,0.0,159.26
+India,"Financial Year (Apr - Mar), 2009",Petroleum Products,,14.67,51.15,-36.49
+India,"Financial Year (Apr - Mar), 2009",Natural Gas (Billion Cubic Metres),,12.92,0.0,12.92
+India,"Financial Year (Apr - Mar), 2009",Electricity (Giga Watt Hour),,5359.0,105.0,5254.0
+India,"Financial Year (Apr - Mar), 2008",Coal,,59.0,1.66,57.35
+India,"Financial Year (Apr - Mar), 2008",Crude Oil,,132.78,0.0,132.78
+India,"Financial Year (Apr - Mar), 2008",Petroleum Products,,18.59,38.94,-20.36
+India,"Financial Year (Apr - Mar), 2008",Natural Gas (Billion Cubic Metres),,8.06,0.0,8.06
+India,"Financial Year (Apr - Mar), 2008",Electricity (Giga Watt Hour),,5897.0,58.0,5838.0
+India,"Financial Year (Apr - Mar), 2007",Coal,,49.79,1.63,48.17
+India,"Financial Year (Apr - Mar), 2007",Crude Oil,,121.67,0.0,121.67
+India,"Financial Year (Apr - Mar), 2007",Petroleum Products,,22.46,40.75,-18.29
+India,"Financial Year (Apr - Mar), 2007",Natural Gas (Billion Cubic Metres),,8.32,0.0,8.32
+India,"Financial Year (Apr - Mar), 2007",Electricity (Giga Watt Hour),,5230.0,290.0,4940.0
+India,"Financial Year (Apr - Mar), 2006",Coal,,43.08,1.55,41.53
+India,"Financial Year (Apr - Mar), 2006",Crude Oil,,111.5,0.0,111.5
+India,"Financial Year (Apr - Mar), 2006",Petroleum Products,,17.76,33.62,-15.86
+India,"Financial Year (Apr - Mar), 2006",Natural Gas (Billion Cubic Metres),,6.81,0.0,6.81
+India,"Financial Year (Apr - Mar), 2006",Electricity (Giga Watt Hour),,2957.0,216.0,2741.0
+India,"Financial Year (Apr - Mar), 2005",Coal,,38.59,1.99,36.6
+India,"Financial Year (Apr - Mar), 2005",Crude Oil,,99.41,0.0,99.41
+India,"Financial Year (Apr - Mar), 2005",Petroleum Products,,13.44,23.46,-10.02
+India,"Financial Year (Apr - Mar), 2000",Coal,,20.93,1.29,19.64
+India,"Financial Year (Apr - Mar), 2000",Crude Oil,,74.1,0.0,74.1
+India,"Financial Year (Apr - Mar), 2000",Petroleum Products,,9.27,8.37,0.9
+India,"Financial Year (Apr - Mar), 1995",Coal,,8.87,0.09,8.78
+India,"Financial Year (Apr - Mar), 1995",Crude Oil,,27.34,0.0,27.34
+India,"Financial Year (Apr - Mar), 1995",Petroleum Products,,20.34,3.44,16.9
+India,"Financial Year (Apr - Mar), 1990",Coal,,4.9,0.1,4.8
+India,"Financial Year (Apr - Mar), 1990",Crude Oil,,20.7,0.0,20.7
+India,"Financial Year (Apr - Mar), 1990",Petroleum Products,,8.66,2.65,6.01
+India,"Financial Year (Apr - Mar), 1985",Coal,,2.03,0.21,1.82
+India,"Financial Year (Apr - Mar), 1985",Crude Oil,,15.14,0.53,14.62
+India,"Financial Year (Apr - Mar), 1985",Petroleum Products,,3.87,1.96,1.9
+India,"Financial Year (Apr - Mar), 1980",Coal,,0.55,0.11,0.44
+India,"Financial Year (Apr - Mar), 1980",Crude Oil,,16.25,0.0,16.25
+India,"Financial Year (Apr - Mar), 1980",Petroleum Products,,7.29,0.04,7.25
+India,"Financial Year (Apr - Mar), 1975",Coal,,0.0,0.44,-0.44
+India,"Financial Year (Apr - Mar), 1975",Crude Oil,,13.62,0.0,13.62
+India,"Financial Year (Apr - Mar), 1975",Petroleum Products,,2.22,0.17,2.05
+India,"Financial Year (Apr - Mar), 1970",Coal,,0.0,0.47,-0.47
+India,"Financial Year (Apr - Mar), 1970",Crude Oil,,11.68,0.0,11.68
+India,"Financial Year (Apr - Mar), 1970",Petroleum Products,,1.08,0.33,0.75
